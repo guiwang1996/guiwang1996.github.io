@@ -27,8 +27,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 
 [[menu.main]]
-    name = "CV"
-    url = "/CV/"
+    name = "hobby"
+    url = "/hobby/"
     weight = 4
 
 [params]
