@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 type : list-single
 ---
 {{<block class="note">}}
