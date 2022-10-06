@@ -6,26 +6,20 @@ type : list-single
 The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
 {{<end>}}
 
-## Albert Einstein
+## Gui Wang
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+Foreign Languages College\
+Shanghai Normal University/
+Xuhui, Shanghai China
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
-
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
-
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+Email: guiwang1201@gmail.com\
+URL: https://guiwang1996.github.io/
 
 ### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+Postgraduate student, Shanghai Normal University, 
 
 ### Areas of specialisation
-Physics; Relativity Theory
+Corpus Linguistics; Linguistic complexity; Second Language Writing
 
 ### Appointments held
 
