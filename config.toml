@@ -26,6 +26,11 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/posts/" 
     weight = 3
 
+[[menu.main]]
+    name = "CV"
+    url = "/CV/"
+    weight = 4
+
 [params]
     description = "Peronal website of Gui Wang"
     homeText = "You just need a Hugo blog from scratch"
