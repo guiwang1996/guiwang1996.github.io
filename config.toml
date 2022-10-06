@@ -17,8 +17,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "CV"
+    url = "/CV/"
     weight = 2
 
 [[menu.main]]
@@ -26,10 +26,6 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/posts/" 
     weight = 3
 
-[[menu.main]]
-    name = "hobby"
-    url = "/hobby/"
-    weight = 4
 
 [params]
     description = "Peronal website of Gui Wang"
