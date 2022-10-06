@@ -18,11 +18,11 @@ posts = "/posts/:year/:month/:day/:slug/"
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "Posts"
     url = "/posts/" 
-    weight = 3
+    weight = 1
 
 [params]
     description = "Peronal website of Gui Wang"
