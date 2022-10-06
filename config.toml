@@ -12,15 +12,15 @@ en = "/en/:year/:month/:day/:slug/"
 posts = "/posts/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "主页"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "关于"
+    name = "About"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "博客"
+    name = "Posts"
     url = "/posts/" 
     weight = 3
 
