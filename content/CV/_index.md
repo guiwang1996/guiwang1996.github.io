@@ -1,5 +1,4 @@
 ## Gui Wang MSc
-
 Foreign Languages College
 Shanghai Normal University/
 Shanghai, 200030, China
@@ -14,7 +13,7 @@ I am currently a master candidate at Shanghai Normal University. My research foc
  Degree: Master of Art in Foreign Linguistics and Applied Linguistics
  GPA: 3.10/4.00
  Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
- 
+
 2015-2019, Wenzhou Medical University, China
  Degree: Bachelor of Art in English Literature
  GPA: 4.05/5.00; 85.53/100
@@ -37,31 +36,13 @@ assessing L2 proficiency: An information-theoretic approach. *Frontiers in
 Psychology*. https://doi.org/10.3389/fpsyg.2022.1024147
 
 **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (Accepted). Linguistic
-complexity in scientific writing: A large-scale diachronic study from 1821 to
-1920. *Scientometrics*.
+complexity in scientific writing: A large-scale diachronic study from 1821 to 1920 *Scientometrics*.
 
+## Research Projects
+Chief investigator (2022/06-2022/12). Project title: A Corpus-based analysis of
+syntactic complexity measures in the discussion part of the academic writing of
+Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800.
+(in progress)
 
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
-
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
-
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
-
-### Teaching
-
-...
-
-### Service to the profession
-
-...
+## Research Techniques and Skills
+R programming, Bibliometric analysis, Excel, Word
