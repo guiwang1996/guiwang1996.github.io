@@ -1,37 +1,46 @@
-## Gui Wang
+## Gui Wang MSc
 
-Foreign Languages College\
+Foreign Languages College
 Shanghai Normal University/
-Xuhui, Shanghai China
-
+Shanghai, 200030, China
 Email: guiwang1201@gmail.com\
-URL: https://guiwang1996.github.io/
+Google Scholar: https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en
 
-### Current position
-Postgraduate student, Shanghai Normal University, 
+## Statement
+I am currently a master candidate at Shanghai Normal University. My research focuses on corpus linguistics, second language acquisition, and linguistic complexity. I am hoping to find a PhD programme to promote my research ability further and establish a solid foundation for research.
 
-### Areas of specialisation
-Corpus Linguistics; Linguistic complexity; Second Language Writing
+## Education
+2020-2023, Shanghai Normal University, China
+ Degree: Master of Art in Foreign Linguistics and Applied Linguistics
+ GPA: 3.10/4.00
+ Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
+ 
+2015-2019, Wenzhou Medical University, China
+ Degree: Bachelor of Art in English Literature
+ GPA: 4.05/5.00; 85.53/100
+ Major Courses: General Linguistics, Language Assessing, Academic Writing
 
-### Appointments held
+## Grants, honours & awards
+2022 China National Scholarship (Shanghai Normal University, ¥ 20,000)
+2021 Excellent Postgraduate Scholarship (Shanghai Normal University, ¥ 3,200)
+2019 Outstanding Graduate (Wenzhou Medical University)
+2019 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1000)
+2018 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1000)
+2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1000)
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+## Publications & talks
+**Wang, G.**, Wang, H., & Wang, L. (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and
+bibliometrics. *Journal of Hospitality and Tourism Insights*, ahead-ofprint(ahead-of-print). https://doi.org/10.1108/jhti-09-2021-0260
 
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+**Wang, G.**, Wang, H., & Wang, L. (2022). Kolmogorov complexity metrics in
+assessing L2 proficiency: An information-theoretic approach. *Frontiers in
+Psychology*. https://doi.org/10.3389/fpsyg.2022.1024147
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+**Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (Accepted). Linguistic
+complexity in scientific writing: A large-scale diachronic study from 1821 to
+1920. *Scientometrics*.
 
-### Publications & talks
-#### Journal articles
+
 1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
 2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
 1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
