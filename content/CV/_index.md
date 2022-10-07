@@ -10,14 +10,14 @@ I am currently a master candidate at Shanghai Normal University. My research foc
 
 ## Education
 2020-2023, Shanghai Normal University, China
- Degree: Master of Art in Foreign Linguistics and Applied Linguistics
- GPA: 3.10/4.00
- Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
+* Degree: Master of Art in Foreign Linguistics and Applied Linguistics
+* GPA: 3.10/4.00
+* Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
 
 2015-2019, Wenzhou Medical University, China
- Degree: Bachelor of Art in English Literature
- GPA: 4.05/5.00; 85.53/100
- Major Courses: General Linguistics, Language Assessing, Academic Writing
+* Degree: Bachelor of Art in English Literature
+* GPA: 4.05/5.00; 85.53/100
+* Major Courses: General Linguistics, Language Assessing, Academic Writing
 
 ## Grants, honours & awards
 2022 China National Scholarship (Shanghai Normal University, ¥ 20,000)
