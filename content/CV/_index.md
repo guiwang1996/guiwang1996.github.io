@@ -1,6 +1,3 @@
-
-type : list-single
-
 ## Gui Wang
 
 Foreign Languages College\
